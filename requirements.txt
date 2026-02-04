@@ -1,0 +1,2 @@
+# Requires: circular-nothing
+# (Not available on PyPI)
